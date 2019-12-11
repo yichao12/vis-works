@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/vis-works/static/css/main.5cf402e0.chunk.css",
+    "main.js": "/vis-works/static/js/main.45c28535.chunk.js",
+    "main.js.map": "/vis-works/static/js/main.45c28535.chunk.js.map",
+    "runtime-main.js": "/vis-works/static/js/runtime-main.d75eed32.js",
+    "runtime-main.js.map": "/vis-works/static/js/runtime-main.d75eed32.js.map",
+    "static/css/2.90172c5a.chunk.css": "/vis-works/static/css/2.90172c5a.chunk.css",
+    "static/js/2.d475eb3d.chunk.js": "/vis-works/static/js/2.d475eb3d.chunk.js",
+    "static/js/2.d475eb3d.chunk.js.map": "/vis-works/static/js/2.d475eb3d.chunk.js.map",
+    "index.html": "/vis-works/index.html",
+    "precache-manifest.18f548e1bdc2e6cdada11eb5d5b96993.js": "/vis-works/precache-manifest.18f548e1bdc2e6cdada11eb5d5b96993.js",
+    "service-worker.js": "/vis-works/service-worker.js",
+    "static/css/2.90172c5a.chunk.css.map": "/vis-works/static/css/2.90172c5a.chunk.css.map",
+    "static/css/main.5cf402e0.chunk.css.map": "/vis-works/static/css/main.5cf402e0.chunk.css.map",
+    "static/media/f1.jpg": "/vis-works/static/media/f1.59fa5dea.jpg",
+    "static/media/f2.jpg": "/vis-works/static/media/f2.6ca750b9.jpg",
+    "static/media/f3.jpg": "/vis-works/static/media/f3.bbcb8a3d.jpg",
+    "static/media/f3a.jpg": "/vis-works/static/media/f3a.3dc33cc2.jpg",
+    "static/media/f4.jpg": "/vis-works/static/media/f4.24cc3d72.jpg",
+    "static/media/f5.jpg": "/vis-works/static/media/f5.d66bc7ad.jpg",
+    "static/media/fire.png": "/vis-works/static/media/fire.328c90f2.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d75eed32.js",
+    "static/css/2.90172c5a.chunk.css",
+    "static/js/2.d475eb3d.chunk.js",
+    "static/css/main.5cf402e0.chunk.css",
+    "static/js/main.45c28535.chunk.js"
+  ]
+}
